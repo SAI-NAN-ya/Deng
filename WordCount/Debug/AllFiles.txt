@@ -1,0 +1,7 @@
+char_number :12
+line_number :4
+word_number :0
+ 
+the top ten frequency of words
+ 
+the top ten frequency of phrases
